@@ -1,2 +1,2 @@
-#Find your hat game
+# Find your hat game
 - using node and js creating simple game
